@@ -9,7 +9,7 @@ class ArrayList
     ArrayList<Integer> ar = new ArrayList<>();
     for(int i=0;i<n;i++)
     {
-      ar.add(sc.nextInt())
+      ar.add(sc.nextInt());
     }
     System.out.print("Enter the element to be removed");
     int del = sc.nextInt();
